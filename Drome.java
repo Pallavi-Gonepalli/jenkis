@@ -1,4 +1,4 @@
-public class PalindromeNumberChecker {
+public class Drome {
     public static void main(String[] args) {
         int number = 121;
         if (isPalindrome(number)) {
